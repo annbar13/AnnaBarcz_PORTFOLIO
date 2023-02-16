@@ -1,7 +1,7 @@
 # PORTFOLIO
 
 ## About Me
-My name is Anna Barcz. I graduated University of Warsaw in the field Translation and Interpreting of Specialist Texts. On maternity leave I have had time to think about my future career path and I became interested in Testing. Through this Portfolio I would like to present my technical skills which I gained while participating the Dare IT Challenge Zostań Testerem Manualnym.
+My name is Anna Barcz. I graduated University of Warsaw in the field Translation and Interpreting of Specialist Texts. On maternity leave I have had time to think about my future career path and I became interested in Testing. Through this Portfolio I would like to present my technical skills which I gained while participating .
 
 ## Tools
 
@@ -16,8 +16,7 @@ My name is Anna Barcz. I graduated University of Warsaw in the field Translation
 - Reporting bugs
 - SQL
 - HTML/CSS
-- OS Linux basic commands
-- Cloud Computing basics
+
 
 
 ## Certificates
@@ -28,8 +27,7 @@ My name is Anna Barcz. I graduated University of Warsaw in the field Translation
 - "Praktyczny kurs testowania oprogramowania" Udemy by Rafał Podraza **in Progress**
 - DareIT Portfolio Challenge
 - Free HTML and CSS course provided by Kodilla
-- Linux for absolute Beginners provided by Alison.com
-- AWS Cloud Practitioner Essentials Training provided by AWS Cloud platform
+
 
 ## Books
 
