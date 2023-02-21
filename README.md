@@ -54,10 +54,13 @@ My name is Anna Barcz. I graduated University of Warsaw in the field Translation
 ### Test cases
 
 [Test cases based on User Story Futbolkolektyw - production environment](https://drive.google.com/file/d/1EcUubdQksIzGaIeu0hBUvHbhTIfrLNvX/view?usp=sharing)
+
 [Test cases Futbolkolektyw - production environment](https://drive.google.com/file/d/12wJ18MwOCmtU2-q2K3Kr7dMqrIJ80Cu6/view?usp=sharing)
 
 ### Bug reporting
+
 [Bug report Futbolkolektyw](https://docs.google.com/document/d/1w-GatSM5YCQ85uiDgTCE8fsEpb-A6B5HgkxT4rYG1wE/edit?usp=sharing)
+
 [Bug report of OLX Mobile App](https://docs.google.com/document/d/1V8gRop8EabPQ_76p-HiTNFWHtvB2tUBXd4oA3b-KLkg/edit?usp=sharing)
 
 
