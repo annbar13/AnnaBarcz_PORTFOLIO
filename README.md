@@ -1,4 +1,4 @@
-# PORTFOLIO
+                                                                # PORTFOLIO
 
 ## About Me
 My name is Anna Barcz. I graduated University of Warsaw in the field Translation and Interpreting of Specialist Texts. On maternity leave I have had time to think about my future career path and I became interested in Testing. Through this Portfolio I would like to present my technical skills which I gained while participating .
@@ -17,8 +17,6 @@ My name is Anna Barcz. I graduated University of Warsaw in the field Translation
 - Reporting bugs
 - SQL
 - HTML/CSS
-
-
 
 ## Certificates
 
