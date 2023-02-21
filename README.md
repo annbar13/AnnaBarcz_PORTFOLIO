@@ -9,6 +9,7 @@ My name is Anna Barcz. I graduated University of Warsaw in the field Translation
 - Trello - project Management
 - MySQL - relational Database Management System
 - Slack - communication within the team
+- Xampp - environment for testers, developers who want to quickly test scripts on their local computer
 
 ## Techskills
 
@@ -23,10 +24,12 @@ My name is Anna Barcz. I graduated University of Warsaw in the field Translation
 
 ## Courses
 
+- "SQL w 120 Minut" by Tomasz Libera
 - "Czy IT jest dla mnie" Webapplication Manual Testing workshops
 - "Praktyczny kurs testowania oprogramowania" Udemy by Rafał Podraza **in Progress**
 - DareIT Portfolio Challenge
 - Free HTML and CSS course provided by Kodilla
+- "Linux for absolute beginners" by Alison.com **in Progress**
 
 
 ## Books
@@ -36,7 +39,7 @@ My name is Anna Barcz. I graduated University of Warsaw in the field Translation
 - Testowanie Oprogramowania
 - Dare IT Community
 - Testowanie Oprogramowania - Materiały|Porady
-- #Mamo pracuj w IT - Testing section
+- #Mamo pracuj w IT
 
 ## Recommended Blogs
 
