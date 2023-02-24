@@ -29,7 +29,6 @@ My name is Anna Barcz. I graduated University of Warsaw in the field Translation
 - "Praktyczny kurs testowania oprogramowania" Udemy by Rafał Podraza **in Progress**
 - DareIT Portfolio Challenge
 - Free HTML and CSS course provided by Kodilla
-- "Linux for absolute beginners" by Alison.com **in Progress**
 
 
 ## Books
