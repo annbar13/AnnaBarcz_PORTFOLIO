@@ -1,14 +1,13 @@
 # PORTFOLIO
 
 ## About Me
-My name is Anna Barcz. I graduated University of Warsaw in the field Translation and Interpreting of Specialist Texts. On maternity leave I have had time to think about my future career path and I became interested in Testing. Through this Portfolio I would like to present my technical skills which I gained while participating .
+My name is Anna Barcz. I graduated University of Warsaw in the field Translation and Interpreting of Specialist Texts. On maternity leave I have had time to think about my future career path and I became interested in Testing. Through this Portfolio I would like to present my technical skills which I gained while participating different courses and workshops.
 
 [Anna Barcz LinkedIn Profile](https://www.linkedin.com/in/anna-barcz/)
 
 ## Tools
 
 - GitHub
-- Trello - project Management
 - MySQL - relational Database Management System
 - Slack - communication within the team
 - Xampp - environment for testers, developers who want to quickly test scripts on their local computer
@@ -52,9 +51,9 @@ My name is Anna Barcz. I graduated University of Warsaw in the field Translation
 
 ### Test cases
 
-[Test cases based on User Story Futbolkolektyw - production environment](https://drive.google.com/file/d/1EcUubdQksIzGaIeu0hBUvHbhTIfrLNvX/view?usp=sharing)
+[Test cases based on User Story Futbolkolektyw](https://docs.google.com/document/d/1YlV6qw-MPUpYXDdydKaSraBdUQ9TRY4LvKI2Kxr4dX8/edit?usp=sharing)
 
-[Test cases Futbolkolektyw - production environment](https://drive.google.com/file/d/12wJ18MwOCmtU2-q2K3Kr7dMqrIJ80Cu6/view?usp=sharing)
+[Test cases Futbolkolektyw](https://docs.google.com/document/d/1iX-T3UK7ox24rK226AKM1z6tzzQrwh8WgcJVi5-r7_M/edit?usp=sharing)
 
 ### Bug reporting
 
