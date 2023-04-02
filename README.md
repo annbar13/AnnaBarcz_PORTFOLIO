@@ -11,6 +11,7 @@ My name is Anna Barcz. I graduated University of Warsaw in the field Translation
 - MySQL - relational Database Management System
 - Slack - communication within the team
 - Xampp - environment for testers, developers who want to quickly test scripts on their local computer
+- Trello
 
 ## Techskills
 
