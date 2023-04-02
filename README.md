@@ -47,6 +47,8 @@ My name is Anna Barcz. I graduated University of Warsaw in the field Translation
 
 ## Webinars
 
+Webinars cycle HerWayToIT - Testing Module - provided by Mamopracuj foundation
+
 ## Projects
 
 ### Test cases
