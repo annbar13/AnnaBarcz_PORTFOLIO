@@ -19,7 +19,7 @@ My name is Anna Barcz. I graduated University of Warsaw in the field Translation
 - SQL
 - HTML/CSS
 
-## Certificates
+
 
 ## Courses
 
@@ -30,7 +30,7 @@ My name is Anna Barcz. I graduated University of Warsaw in the field Translation
 - Free HTML and CSS course provided by Kodilla
 
 
-## Books
+
 
 ## Groups on Facebook I belong to
 
