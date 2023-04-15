@@ -19,6 +19,7 @@ My name is Anna Barcz. I graduated University of Warsaw in the field Translation
 - Reporting bugs
 - SQL
 - HTML/CSS
+- Linux CLI
 
 
 
@@ -26,7 +27,7 @@ My name is Anna Barcz. I graduated University of Warsaw in the field Translation
 
 - "SQL w 120 Minut" by Tomasz Libera
 - "Czy IT jest dla mnie" Webapplication Manual Testing workshops
-- "Praktyczny kurs testowania oprogramowania" Udemy by Rafał Podraza **in Progress**
+- "Praktyczny kurs testowania oprogramowania" Udemy by Rafał Podraza
 - DareIT Portfolio Challenge
 - Free HTML and CSS course provided by Kodilla
 
