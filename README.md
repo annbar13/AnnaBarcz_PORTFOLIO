@@ -23,6 +23,7 @@ My name is Anna Barcz. I graduated University of Warsaw in the field Translation
 
 
 
+
 ## Courses
 
 - "SQL w 120 Minut" by Tomasz Libera
@@ -30,7 +31,7 @@ My name is Anna Barcz. I graduated University of Warsaw in the field Translation
 - "Praktyczny kurs testowania oprogramowania" Udemy by Rafał Podraza
 - DareIT Portfolio Challenge
 - Free HTML and CSS course provided by Kodilla
-
+- Kyndryl Upskill Journey - Educational Program - Introduction to Linux and Cloud Technology
 
 
 
