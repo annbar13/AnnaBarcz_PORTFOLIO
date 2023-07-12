@@ -63,4 +63,6 @@ Webinars cycle HerWayToIT - Testing Module - provided by Mamopracuj foundation
 
 [Bug report of OLX Mobile App](https://docs.google.com/document/d/1V8gRop8EabPQ_76p-HiTNFWHtvB2tUBXd4oA3b-KLkg/edit?usp=sharing)
 
+## SQL Tasks
+[SQL Queries I have learned during the challenge] (https://github.com/annbar13/SQL_Tasks.git)
 
