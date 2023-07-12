@@ -22,9 +22,6 @@ spirit with an eye on detail.  Through this Portfolio I would like to present my
 - HTML/CSS
 - Linux CLI
 
-
-
-
 ## Courses
 
 - "SQL w 120 Minut" by Tomasz Libera
@@ -33,8 +30,7 @@ spirit with an eye on detail.  Through this Portfolio I would like to present my
 - DareIT Portfolio Challenge
 - Free HTML and CSS course provided by Kodilla
 - Kyndryl Upskill Journey - Educational Program - Introduction to Linux and Cloud Technology
-
-
+- Beginner's Guide to Agile in Jira
 
 ## Groups on Facebook I belong to
 
