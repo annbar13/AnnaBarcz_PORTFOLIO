@@ -30,7 +30,7 @@ spirit with an eye on detail.  Through this Portfolio I would like to present my
 - DareIT Portfolio Challenge
 - Free HTML and CSS course provided by Kodilla
 - Kyndryl Upskill Journey - Educational Program - Introduction to Linux and Cloud Technology
-- Beginner's Guide to Agile in Jira
+- Beginner's Guide to Agile in Jira provided by Atlassian University
 
 ## Groups on Facebook I belong to
 
@@ -44,6 +44,12 @@ spirit with an eye on detail.  Through this Portfolio I would like to present my
 - https://testerzy.pl/
 - https://www.wyszkolewas.com.pl/
 - https://testuj.pl/blog/
+
+## Recommended YouTube channels I follow:
+
+- Technika Programowania
+- Testuj.pl
+- Future Collars
 
 ## Webinars
 
